@@ -6,7 +6,7 @@
 
 🏥 **Healthcare Data Professional → AI & Data Engineer**
 
-With 7+ years of experience in Health Information Management at tertiary hospitals, I am transitioning into Healthcare AI and Data Engineering through the Oracle AI Service Architect Program.
+With 7+ years of experience in Health Information Management at Tertiary Hospitals, I am transitioning into Healthcare AI and Data Engineering through the Oracle AI Service Architect Program.
 
 I am passionate about **Healthcare AI, Clinical NLP, Medical Data Analytics, and Digital Healthcare Innovation.**
 
