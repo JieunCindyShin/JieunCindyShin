@@ -4,11 +4,11 @@
 
 # Hi there 👋 I'm Jieun Shin
 
-Healthcare Data Professional transitioning into AI & Data Engineering.
+🏥 **Healthcare Data Professional → AI & Data Engineer**
 
-With 7+ years of experience in Health Information Management at a Tertiary General Hospital, I am currently expanding my expertise in Artificial Intelligence, Machine Learning, Data Engineering, and Cloud technologies through the Oracle AI Service Architect program.
+With 7+ years of experience in Health Information Management at tertiary hospitals, I am transitioning into Healthcare AI and Data Engineering through the Oracle AI Service Architect Program.
 
-My interests include Healthcare AI, Clinical NLP, Medical Data Analytics, and Digital Healthcare Innovation.
+I am passionate about **Healthcare AI, Clinical NLP, Medical Data Analytics, and Digital Healthcare Innovation.**
 
 ---
 
@@ -16,128 +16,110 @@ My interests include Healthcare AI, Clinical NLP, Medical Data Analytics, and Di
 
 ### Health Information Management Specialist
 
-#### Kyung Hee University Medical Center | May 2020 - Apr 2026
+**Kyung Hee University Medical Center** | May 2020 - Apr 2026
 
-- Medical record completeness management and clinical documentation review
-- Disease and procedure classification based on KCD and ICD standards
-- Coding quality assurance and error auditing
-- POA (Present on Admission) management and data quality monitoring
-- DRG management for Ophthalmology, ENT, Surgery, and Obstetrics & Gynecology departments
-- Healthcare statistics reporting and national healthcare data submission
-- Medical information collection and information services
-- Monthly and semi-annual healthcare reporting
-- EMR form development and administration
-- Electronic consent form implementation and validation
-- Healthcare data management and analytics
+* Medical record quality management and clinical documentation review
+* Disease classification based on KCD & ICD standards
+* DRG management and healthcare statistics reporting
+* EMR administration and electronic consent implementation
+* Healthcare data management and analytics
 
-#### Samsung Medical Center - Nuclear Medicine Department | Feb 2019 - Apr 2020
+### Nuclear Medicine Department
 
-- Nuclear medicine report transcription management
-- TAT (Turnaround Time) monitoring and reporting
-- Monthly examination statistics and workload analysis
-- Report template maintenance and beta testing participation
-- English report management for outsourced examinations
-- Workflow improvement and operational efficiency initiatives
+**Samsung Medical Center** | Feb 2019 - Apr 2020
+
+* Nuclear medicine report management
+* TAT monitoring and workload analysis
+* Healthcare statistics reporting
+* Workflow improvement initiatives
 
 ---
 
 ## 🎓 Education
 
-#### Oracle AI Service Architect Program (2026)
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Data Engineering
-- Oracle Cloud Infrastructure (OCI)
-- Docker & Model Serving
-- LLM & RAG Applications
+### Oracle AI Service Architect Program (2026)
 
-#### TEU MED Healthcare Innovation Program (2025)
-Donggeurami Foundation TEU MED 5th Cohort
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Data Engineering
+* Oracle Cloud Infrastructure (OCI)
+* Docker & Model Serving
+* LLM & RAG Applications
 
-- Healthcare Innovation & Entrepreneurship Program
-- AI-based Healthcare Service Development
-- Design Thinking & Problem Solving
-- MVP Development and Validation
-- User Research and Survey Analysis
-- Innovation Day Final Presentation
-  
-#### Dongduk Women's University (2015-2019)
-B.S. in Health Management
+### TEU MED Healthcare Innovation Program (2025)
+
+* AI-based Healthcare Service Development
+* Design Thinking
+* MVP Development
+* User Research & Validation
+
+### Dongduk Women's University
+
+**B.S. in Health Management** (2015 - 2019)
 
 ---
 
 ## 📜 Certifications
 
-- Health Information Manager (Licensed, Korea) / 보건의료정보관리사
-- Environmental Health Specialist (Licensed, Korea) / 위생사
-- 보험심사평가사 2급
-- 사회조사분석사 2급
-- 컴퓨터활용능력 1급
-- TOEIC Speaking AL
+* Health Information Manager (Licensed, Korea) / 보건의료정보관리사
+* Environmental Health Specialist (Licensed, Korea) / 위생사
+* 보험심사평가사 2급
+* 사회조사분석사 2급
+* 컴퓨터활용능력 1급
+* TOEIC Speaking AL
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### Languages
+
+`Python` `SQL`
 
 ### Data Analysis
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+`Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
 
 ### AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
-![Transformer](https://img.shields.io/badge/Transformer-FFCC00?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-4CAF50?style=flat-square)
+
+`Machine Learning` `Deep Learning` `NLP` `Transformer` `RAG`
 
 ### Database & Cloud
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### DevOps & Development Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+`Oracle` `MySQL` `OCI`
+
+### Development Tools
+
+`Docker` `Git` `GitHub` `Linux` `VS Code` `Jupyter`
 
 ### Healthcare Domain Expertise
-- EMR Administration
-- DRG Management
-- KCD / ICD Classification
-- POA Management
-- Medical Statistics
-- Clinical Data Management
-- Clinical Documentation Improvement (CDI)
-- Healthcare Reporting and Analytics
-- Healthcare Quality Management
+
+`EMR Administration`
+`DRG Management`
+`KCD/ICD Classification`
+`POA Management`
+`Clinical Data Management`
+`Healthcare Statistics`
+`Healthcare Reporting`
 
 ---
 
 ## 📊 Projects
 
 ### 🧩 AI-based Personalized Learning Support for Individuals with Developmental Disabilities
-TEU MED Healthcare Innovation Project | Team 가치걸음 | 2025
 
-- Identified communication and writing challenges faced by individuals with developmental disabilities.
-- Designed an AI-based personalized learning support service.
-- Conducted user research and needs assessment.
-- Developed an MVP prototype using vibe coding approaches.
-- Designed service workflows and user experiences.
-- Participated in Innovation Day final presentation.
+**TEU MED Healthcare Innovation Project | Team 가치걸음 | 2025**
+
+* Designed an AI-based personalized learning support service for individuals with developmental disabilities.
+* Conducted user research and needs assessment.
+* Developed MVP prototypes using vibe coding approaches.
+* Designed service workflows and user experiences.
+* Presented the project at Innovation Day.
 
 **Tech & Skills**
+
 `Healthcare Innovation`
 `Design Thinking`
 `User Research`
@@ -145,22 +127,50 @@ TEU MED Healthcare Innovation Project | Team 가치걸음 | 2025
 `MVP Development`
 `AI Service Planning`
 
+---
+
 ### 🏥 Hospital Readmission Prediction
-- Exploratory Data Analysis using EHR data
-- Feature Engineering
-- Machine Learning Modeling
 
-### 🩺 Metabolic Syndrome Risk Analysis
-- Statistical Analysis and Data Visualization
-- Risk Factor Identification and Interpretation
+* Exploratory Data Analysis using EHR data
+* Feature Engineering
+* Machine Learning Modeling
 
-### 🎬 Sentiment Analysis API
-- NLP Model Development
-- FastAPI Deployment
-- Docker Containerization
+**Tech**
+
+`Python`
+`Pandas`
+`Scikit-Learn`
 
 ---
 
-## 📫 Contact
-- dearsw2t@gmail.com
-- GitHub: https://github.com/JieunCindyShin
+### 🩺 Metabolic Syndrome Risk Analysis
+
+* Statistical analysis and visualization
+* Risk factor identification and interpretation
+
+**Tech**
+
+`Pandas`
+`Matplotlib`
+`Machine Learning`
+
+---
+
+### 🎬 Sentiment Analysis API
+
+* NLP model development
+* FastAPI deployment
+* Docker containerization
+
+**Tech**
+
+`PyTorch`
+`FastAPI`
+`Docker`
+
+---
+
+## 📫 Connect with Me
+dearsw2t@gmail.com
+* GitHub: https://github.com/JieunCindyShin
+* Interested in Healthcare AI, Clinical NLP, and Medical Data Engineering 🚀
