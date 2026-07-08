@@ -15,22 +15,35 @@ My interests include Healthcare AI, Clinical NLP, Medical Data Analytics, and Di
 ## 💼 Experience
 
 ### Health Information Management Specialist
-Tertiary General Hospital | Feb 2019 - Apr 2026
 
-- Disease Classification (KCD, ICD)
-- DRG Management
-- Medical Statistics
-- Quality Management
-- EMR Form Administration
-- Healthcare Data Management and Analysis
-- Clinical Data Quality Improvement
-- Healthcare Reporting and Analytics
+#### Kyung Hee University Medical Center | May 2020 - Apr 2026
+
+- Medical record completeness management and clinical documentation review
+- Disease and procedure classification based on KCD and ICD standards
+- Coding quality assurance and error auditing
+- POA (Present on Admission) management and data quality monitoring
+- DRG management for Ophthalmology, ENT, Surgery, and Obstetrics & Gynecology departments
+- Healthcare statistics reporting and national healthcare data submission
+- Medical information collection and information services
+- Monthly and semi-annual healthcare reporting
+- EMR form development and administration
+- Electronic consent form implementation and validation
+- Healthcare data management and analytics
+
+#### Samsung Medical Center - Nuclear Medicine Department | Feb 2019 - Apr 2020
+
+- Nuclear medicine report transcription management
+- TAT (Turnaround Time) monitoring and reporting
+- Monthly examination statistics and workload analysis
+- Report template maintenance and beta testing participation
+- English report management for outsourced examinations
+- Workflow improvement and operational efficiency initiatives
 
 ---
 
 ## 🎓 Education
 
-### Oracle AI Service Architect Program (2026)
+#### Oracle AI Service Architect Program (2026)
 - Artificial Intelligence
 - Machine Learning
 - Deep Learning
@@ -38,8 +51,9 @@ Tertiary General Hospital | Feb 2019 - Apr 2026
 - Data Engineering
 - Oracle Cloud Infrastructure (OCI)
 - Docker & Model Serving
+- LLM & RAG Applications
 
-### TEU MED Healthcare Innovation Program (2025)
+#### TEU MED Healthcare Innovation Program (2025)
 Donggeurami Foundation TEU MED 5th Cohort
 
 - Healthcare Innovation & Entrepreneurship Program
@@ -48,6 +62,9 @@ Donggeurami Foundation TEU MED 5th Cohort
 - MVP Development and Validation
 - User Research and Survey Analysis
 - Innovation Day Final Presentation
+  
+#### Dongduk Women's University (2015-2019)
+B.S. in Health Management
 
 ---
 
@@ -96,11 +113,14 @@ Donggeurami Foundation TEU MED 5th Cohort
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ### Healthcare Domain Expertise
-- EMR
-- DRG
-- KCD Classification
+- EMR Administration
+- DRG Management
+- KCD / ICD Classification
+- POA Management
 - Medical Statistics
 - Clinical Data Management
+- Clinical Documentation Improvement (CDI)
+- Healthcare Reporting and Analytics
 - Healthcare Quality Management
 
 ---
